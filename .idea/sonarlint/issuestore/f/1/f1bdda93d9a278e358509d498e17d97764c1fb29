@@ -1,0 +1,8 @@
+
+Œpython:S2208
+"GImport only needed names or import the module and then use its members.(±ßìÑ8Èöåüƒ2J$c2210c07-5641-452b-9421-6dbfe6a32923
+‘python:S2208"GImport only needed names or import the module and then use its members.(ß“„øÿÿÿÿ8Éöåüƒ2J$ef898e9a-8a29-476a-a092-f8b3500db2ae
+˜python:S1542"SRename function "generateExcel" to match the regular expression ^[a-z_][a-z0-9_]*$.(ê¸•º8óÖÏüƒ2J$04dd8d92-1247-4110-a84c-994e7a772003
+python:S3776/"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(±¼‹Àüÿÿÿÿ8œŞ¨üƒ2J$bc70118d-4ddc-4344-a3dc-478a73c00c19
+hpython:S125f"Remove this commented out code.(Ëƒº†øÿÿÿÿ8éĞüƒ2J$fbf2649b-564b-4539-b537-b7b7837dd9cb
+cpython:S125q"Remove this commented out code.(øŒ°â8œŞ¨üƒ2J$10e88d5d-93e9-474c-b3b2-9be17b321861
